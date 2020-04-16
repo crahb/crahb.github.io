@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+# Computer Science 161/162 Exercises
 
-You can use the [editor on GitHub](https://github.com/crahb/crahb.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+"Objects First With Java™" Chapter 1-X exercises.
+Completed Primarily on the BlueJ developmend environment.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### [Link to completed exercises](https://k-lan.github.io/)
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Here you'll find a link to each of my chapters and the work completed. 200 Google Doc pages total (3/15/20)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/crahb/crahb.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
