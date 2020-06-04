@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Person
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Person\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=first\ last\ ID
+comment1.target=Person(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ Person.\r\n\ @param\ first\ String\ of\ first\ name.\r\n\ @param\ last\ String\ of\ last\ name.\r\n\ @param\ ID\ 9\ digit\ ID.\r\n\ @return\ new\ Person\ object.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getID()
+comment2.text=\r\n\ @return\ the\ ID.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getFirstName()
+comment3.text=\r\n\ @return\ the\ persons\ first\ name.\r\n
+comment4.params=
+comment4.target=java.lang.String\ getLastName()
+comment4.text=\r\n\ @return\ the\ persons\ last\ name.\r\n
+comment5.params=ID
+comment5.target=void\ testID(java.lang.String)
+comment5.text=\r\n\ Test\ the\ ID\ and\ make\ sure\ it's\ 9\ characters\ in\ length.\r\n\ @throw\ RuntimeException\ if\ ID\ is\ not\ 9\ characters\ in\ length.\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ Print\ out\ the\ persons\ first,\ last,\ and\ ID\ in\ sequence.\r\n
+numComments=7
