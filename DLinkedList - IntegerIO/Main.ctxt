@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\r\n\ Visually\ test\ the\ DLCList\ here,\ rather\ than\ unit\ test.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=java.util.List\ read()
+comment3.params=
+comment3.target=void\ testInteger()
+comment4.params=
+comment4.target=java.util.ArrayList\ addInteger()
+comment5.params=
+comment5.target=void\ testPerson()
+comment6.params=
+comment6.target=java.util.ArrayList\ addPeople()
+numComments=7
